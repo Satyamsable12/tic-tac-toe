@@ -1,30 +1,69 @@
-#Tic Tac Toe Game 
 
-This is a two-player game built with HTML, CSS and JavaScript. 
+# Awesome Tic Tac Toe Multiplayer Game
 
-##How to Play
+Build with html css and vanillas javaScript
 
-1. Two players can play the game on the same device. 
-2. On your turn, click one of the empty squares on the 3x3 grid to place your symbol (X or O). 
-3. The first player to get three of their symbols in a row (vertically, horizontally or diagonally) wins the game. 
 
-##Features
 
+
+
+## Authors
+
+- [@Satyamsable12](https://github.com/Satyamsable12/tic-tac-toe)
+
+
+## Features
 1. Responsive design for desktop and mobile. 
 2. Beautiful and intuitive user interface. 
 3. Keeps track of score for both players. 
-4. Option to reset the game. 
+4. Option to reset the game.
 
-##Instructions
 
-1. Download the source code from the repository. 
-2. Open the index.html file in a web browser. 
-3. Enjoy the game! 
+## 🚀 About Me
 
-##Contributing
+My name is [satyam sable], and I’m a full stack web developer with 5+ years of experience in building and deploying web applications. I specialize in HTML, CSS, JavaScript, PHP, MySQL, React, and Angular. My experience includes developing and deploying web applications from the ground up, as well as troubleshooting and optimizing existing applications.
 
-If you find any bugs or have suggestions for improvements, please open an issue or create a pull request. 
+I have a passion for staying up to date on the latest technologies and trends, and I am always looking for ways to improve my skills and capabilities. I have worked on projects for a wide variety of clients, ranging from start-ups to Fortune 500 companies. I am a hard worker and can work independently or as part of a team, and I am always eager to take on new challenges.
 
-##License 
+In my spare time, I enjoy creating websites and applications for fun. I also like to stay active, and I love to travel.
 
-This project is open source and released under the MIT license.
+If you are looking for a full stack web developer with extensive experience and a passion for learning, I am the perfect candidate for your team.
+
+
+## 🛠 Skills
+
+im full stack web developer show me all skills
+
+Full stack web developers have a variety of skills, including: 
+
+Front-end development:
+• HTML
+• CSS
+• JavaScript
+• jQuery
+• React
+• Vue
+• Angular
+• Bootstrap
+• AJAX
+
+Back-end development:
+• PHP
+• Python
+• Ruby
+• Node.js
+• Java
+• ASP.NET
+• Database management (e.g. MySQL, MongoDB)
+• Server management (e.g. Apache, Nginx)
+
+Other skills:
+• Responsive design
+• Cross-browser compatibility
+• Search engine optimization (SEO)
+• Project management
+• Version control (e.g. Git)
+• Testing and debugging
+• Security
+• Content management systems (CMS)
+
