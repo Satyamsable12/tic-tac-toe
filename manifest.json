@@ -1,7 +1,7 @@
 {
     "name": "tic-tac-toe",
     "short_name": "XnO",
-    "start_url": "tic-tac-toe",
+    "start_url": "my-tic-tac-toe",
     "background_color": "red",
     "theme": "coral",
     "display": "standlone",
